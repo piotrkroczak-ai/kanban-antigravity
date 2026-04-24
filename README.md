@@ -49,7 +49,7 @@ This allows progressive optimization of both the product and the development pro
 
 Primary generation and optimization performed with:
 
-**OpenAI GPT-5.3**
+**Google Gemini 3.1**
 
 Model comparison and iteration logic based on testing outputs from multiple models and improving the execution strategy from the initial fork.
 
